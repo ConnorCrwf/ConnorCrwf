@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ConnorCrwf. This is my public repo. Most of my coding is done on a private Github account, associated with the University I attend.
+- 👋 Hi, I’m @ConnorCrwf. This is my public repo. Most of my coding is done on a private Github account, associated with the University I attend. Also some of my repos on this account are private as they are related to projects I hope to commercialize. 
+- 👀 Demo Videos of some of my projects to date are hosted through my carrd website at https://connorcrawford.carrd.co/
 - 👀 I’m interested in robotics and embedded systems. I hope to invent a product soon that I can form a side business around.
 - 🌱 I’m currently learning and applying robotics to solve a variety of problems.
 - 💞️ I’m looking to collaborate on anything robotics related.
